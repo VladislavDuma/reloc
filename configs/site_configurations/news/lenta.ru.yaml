@@ -1,0 +1,14 @@
+site_config:
+  url: https://lenta.ru/parts/news
+  folder: lenta.ru
+  time_update:
+    hours: 0
+    minutes: 7
+    seconds: 0
+
+  tag: a
+  tag_class: card-full-news
+  regular: /news/[\d]+/[\d]+/[\d]+/[/\w+.-]*
+  add_page_name: True
+  https_line: True
+  delete_part_of_url: /parts/news

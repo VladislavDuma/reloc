@@ -1,0 +1,10 @@
+site_config:
+  url: https://kuban.rbc.ru
+  folder: kuban.rbc.ru
+  time_update:
+    hours: 0
+    minutes: 8
+    seconds: 0
+
+  tag: a
+  tag_class: news-feed__item js-visited js-news-feed-item js-yandex-counter

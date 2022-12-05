@@ -1,0 +1,11 @@
+site_config:
+  url: https://ria.ru/lenta
+  folder: ria.ru
+  time_update:
+    hours: 0
+    minutes: 10
+    seconds: 0
+
+  tag: a
+  tag_class: list-item__title color-font-hover-only
+  regular: https://ria.ru/[/\w+.-]*

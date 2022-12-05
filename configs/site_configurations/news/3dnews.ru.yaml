@@ -1,0 +1,12 @@
+site_config:
+  url: https://3dnews.ru
+  folder: 3dnews.ru
+  time_update:
+    hours: 1
+    minutes: 0
+    seconds: 0
+
+  tag: a
+  regular: /\d+/[\w+.-]+[/\w+.-]*
+
+  add_page_name: True
